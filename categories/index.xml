@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Categories on BD电机控制</title>
     <link>https://miles745.github.io/miblogpub/categories/</link>
     <description>Recent content in Categories on BD电机控制</description>
-    <generator>Hugo -- 0.155.3</generator>
+    <generator>Hugo</generator>
     <language>zh-cn</language>
     <lastBuildDate>Sun, 15 Feb 2026 16:31:20 +0800</lastBuildDate>
     <atom:link href="https://miles745.github.io/miblogpub/categories/index.xml" rel="self" type="application/rss+xml" />
